@@ -1,11 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NGUI/Scripts/Internal/NGUIText.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ItemObject.cs">
     <Files>
-      <File FileName="Assets/Scripts/ListingScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/UI/UIViewport.cs" Line="1" Column="1" />
-      <File FileName="Assets/NGUI/Scripts/UI/UIAnchor.cs" Line="84" Column="45" />
-      <File FileName="Assets/NGUI/Scripts/Internal/NGUIText.cs" Line="154" Column="1" />
+      <File FileName="Assets/Scripts/ItemObject.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/ListItem.js" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
